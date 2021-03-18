@@ -1,0 +1,376 @@
+<game>
+	<NurseName>1</NurseName>
+	<Date>2020-12-14</Date>
+	<Department>Мадрид</Department>
+	<Shift>3:1</Shift>
+	<FID1>1</FID1>
+	<FID2>2</FID2>
+</game>
+<game>
+	<NurseName>2</NurseName>
+	<Date>2020-12-15</Date>
+	<Department>Мадрид</Department>
+	<Shift>1:1</Shift>
+	<FID1>2</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>3</NurseName>
+	<Date>2020-12-21</Date>
+	<Department>Барселона</Department>
+	<Shift>0:2</Shift>
+	<FID1>1</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>4</NurseName>
+	<Date>2020-12-07</Date>
+	<Department>Турин</Department>
+	<Shift>5:1</Shift>
+	<FID1>4</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>5</NurseName>
+	<Date>2020-12-16</Date>
+	<Department>Милан</Department>
+	<Shift>0:1</Shift>
+	<FID1>5</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>6</NurseName>
+	<Date>2021-03-28</Date>
+	<Department>Турин</Department>
+	<Shift></Shift>
+	<FID1>4</FID1>
+	<FID2>5</FID2>
+</game>
+<game>
+	<NurseName>7</NurseName>
+	<Date>2020-12-26</Date>
+	<Department>Лондон</Department>
+	<Shift>3:3</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>8</NurseName>
+	<Date>2021-02-15</Date>
+	<Department>Манчестер</Department>
+	<Shift>1:2</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>9</NurseName>
+	<Date>2021-04-01</Date>
+	<Department>Лондон</Department>
+	<Shift></Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>8</NurseName>
+	<Date>2021-02-15</Date>
+	<Department>Манчестер</Department>
+	<Shift>1:2</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>1</NurseName>
+	<Date>2020-12-14</Date>
+	<Department>Мадрид</Department>
+	<Shift>3:1</Shift>
+	<FID1>1</FID1>
+	<FID2>2</FID2>
+</game>
+<game>
+	<NurseName>2</NurseName>
+	<Date>2020-12-15</Date>
+	<Department>Мадрид</Department>
+	<Shift>1:1</Shift>
+	<FID1>2</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>3</NurseName>
+	<Date>2020-12-21</Date>
+	<Department>Барселона</Department>
+	<Shift>0:2</Shift>
+	<FID1>1</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>4</NurseName>
+	<Date>2020-12-07</Date>
+	<Department>Турин</Department>
+	<Shift>5:1</Shift>
+	<FID1>4</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>5</NurseName>
+	<Date>2020-12-16</Date>
+	<Department>Милан</Department>
+	<Shift>0:1</Shift>
+	<FID1>5</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>7</NurseName>
+	<Date>2020-12-26</Date>
+	<Department>Лондон</Department>
+	<Shift>3:3</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>8</NurseName>
+	<Date>2021-02-15</Date>
+	<Department>Манчестер</Department>
+	<Shift>1:2</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>1</NurseName>
+	<Date>2020-12-14</Date>
+	<Department>Мадрид</Department>
+	<Shift>3:1</Shift>
+	<FID1>1</FID1>
+	<FID2>2</FID2>
+</game>
+<game>
+	<NurseName>2</NurseName>
+	<Date>2020-12-15</Date>
+	<Department>Мадрид</Department>
+	<Shift>1:1</Shift>
+	<FID1>2</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>3</NurseName>
+	<Date>2020-12-21</Date>
+	<Department>Барселона</Department>
+	<Shift>0:2</Shift>
+	<FID1>1</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>4</NurseName>
+	<Date>2020-12-07</Date>
+	<Department>Турин</Department>
+	<Shift>5:1</Shift>
+	<FID1>4</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>5</NurseName>
+	<Date>2020-12-16</Date>
+	<Department>Милан</Department>
+	<Shift>0:1</Shift>
+	<FID1>5</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>6</NurseName>
+	<Date>2021-03-28</Date>
+	<Department>Турин</Department>
+	<Shift></Shift>
+	<FID1>4</FID1>
+	<FID2>5</FID2>
+</game>
+<game>
+	<NurseName>7</NurseName>
+	<Date>2020-12-26</Date>
+	<Department>Лондон</Department>
+	<Shift>3:3</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>8</NurseName>
+	<Date>2021-02-15</Date>
+	<Department>Манчестер</Department>
+	<Shift>1:2</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>9</NurseName>
+	<Date>2021-04-01</Date>
+	<Department>Лондон</Department>
+	<Shift></Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>1</NurseName>
+	<Date>2020-12-14</Date>
+	<Department>Мадрид</Department>
+	<Shift>3:1</Shift>
+	<FID1>1</FID1>
+	<FID2>2</FID2>
+</game>
+<game>
+	<NurseName>2</NurseName>
+	<Date>2020-12-15</Date>
+	<Department>Мадрид</Department>
+	<Shift>1:1</Shift>
+	<FID1>2</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>3</NurseName>
+	<Date>2020-12-21</Date>
+	<Department>Барселона</Department>
+	<Shift>0:2</Shift>
+	<FID1>1</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>4</NurseName>
+	<Date>2020-12-07</Date>
+	<Department>Турин</Department>
+	<Shift>5:1</Shift>
+	<FID1>4</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>5</NurseName>
+	<Date>2020-12-16</Date>
+	<Department>Милан</Department>
+	<Shift>0:1</Shift>
+	<FID1>5</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>7</NurseName>
+	<Date>2020-12-26</Date>
+	<Department>Лондон</Department>
+	<Shift>3:3</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>8</NurseName>
+	<Date>2021-02-15</Date>
+	<Department>Манчестер</Department>
+	<Shift>1:2</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>1</NurseName>
+	<Date>2020-12-14</Date>
+	<Department>Мадрид</Department>
+	<Shift>3:1</Shift>
+	<FID1>1</FID1>
+	<FID2>2</FID2>
+</game>
+<game>
+	<NurseName>2</NurseName>
+	<Date>2020-12-15</Date>
+	<Department>Мадрид</Department>
+	<Shift>1:1</Shift>
+	<FID1>2</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>3</NurseName>
+	<Date>2020-12-21</Date>
+	<Department>Барселона</Department>
+	<Shift>0:2</Shift>
+	<FID1>1</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>4</NurseName>
+	<Date>2020-12-07</Date>
+	<Department>Турин</Department>
+	<Shift>5:1</Shift>
+	<FID1>4</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>5</NurseName>
+	<Date>2020-12-16</Date>
+	<Department>Милан</Department>
+	<Shift>0:1</Shift>
+	<FID1>5</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>7</NurseName>
+	<Date>2020-12-26</Date>
+	<Department>Лондон</Department>
+	<Shift>3:3</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>8</NurseName>
+	<Date>2021-02-15</Date>
+	<Department>Манчестер</Department>
+	<Shift>1:2</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>1</NurseName>
+	<Date>2020-12-14</Date>
+	<Department>Мадрид</Department>
+	<Shift>3:1</Shift>
+	<FID1>1</FID1>
+	<FID2>2</FID2>
+</game>
+<game>
+	<NurseName>2</NurseName>
+	<Date>2020-12-15</Date>
+	<Department>Мадрид</Department>
+	<Shift>1:1</Shift>
+	<FID1>2</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>3</NurseName>
+	<Date>2020-12-21</Date>
+	<Department>Барселона</Department>
+	<Shift>0:2</Shift>
+	<FID1>1</FID1>
+	<FID2>3</FID2>
+</game>
+<game>
+	<NurseName>4</NurseName>
+	<Date>2020-12-07</Date>
+	<Department>Турин</Department>
+	<Shift>5:1</Shift>
+	<FID1>4</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>5</NurseName>
+	<Date>2020-12-16</Date>
+	<Department>Милан</Department>
+	<Shift>0:1</Shift>
+	<FID1>5</FID1>
+	<FID2>6</FID2>
+</game>
+<game>
+	<NurseName>7</NurseName>
+	<Date>2020-12-26</Date>
+	<Department>Лондон</Department>
+	<Shift>3:3</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
+<game>
+	<NurseName>8</NurseName>
+	<Date>2021-02-15</Date>
+	<Department>Манчестер</Department>
+	<Shift>1:2</Shift>
+	<FID1>7</FID1>
+	<FID2>8</FID2>
+</game>
